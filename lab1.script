@@ -1,0 +1,13 @@
+Script started on 2016年03月07日 (週一) 19時17分37秒
+]0;F74045076@2015cpp: ~F74045076@2015cpp:~$ whoami;pwd
+F74045076
+/home/F74045076
+]0;F74045076@2015cpp: ~F74045076@2015cpp:~$ git config -l
+user.name=jiankun0824
+user.email=F74045076@mail.ncku.edu.tw
+]0;F74045076@2015cpp: ~F74045076@2015cpp:~$ gti c[K[K[K[K[Kgit clone htt[K[K[Khttps://github.com/jiankun082 4/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74045076@2015cpp: ~F74045076@2015cpp:~$ exit
+
+Script done on 2016年03月07日 (週一) 19時19分12秒
